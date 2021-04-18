@@ -1,0 +1,103 @@
+body {
+  font: normal 16px Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 1.6em;
+  background: #303030;
+  color: #bed7f9;
+  max-width: 100%;
+  max-height: 100%;
+  overflow-x: hidden;
+  padding-bottom:10%;
+}
+.head {
+  color: #76a1ef;
+  padding-top: 50px;
+}
+
+.head1 {
+  color: #76a1ef;
+  padding-bottom: 30px;
+  padding-top: 120px;
+}
+
+.subhead {
+  color: #76a1ef;
+  padding-top: 180px;
+}
+
+.slogan {
+  padding-bottom: 80px;
+}
+
+.meet1 {
+  text-align: left;
+}
+
+.meet2 {
+  text-align: center;
+}
+
+.meet3 {
+  text-align: right;
+}
+
+.button {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 120px;
+  background-color: #fff;
+  border: none;
+  color: white;
+  padding: 15px 45px;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  display: inline-block;
+}
+.button1 {
+  background-color: #303030;
+  color: #bed7f9;
+  border: 2px solid #fff;
+  margin-right: 15px;
+}
+
+.button1:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.button2 {
+  background-color: #303030;
+  color: #bed7f9;
+  border: 2px solid #fff;
+  margin-top:7%;
+  
+}
+
+.button2:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.button3 {
+  background-color: #303030;
+  color: #bed7f9;
+  border: 2px solid #fff;
+  margin-top:3%;
+  
+}
+
+.button3:hover {
+  background-color: #fff;
+  color: black;
+}
+.navbar1 {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  margin-bottom:0px;
+}
+
+.img {
+  padding-top: 5%;
+}
